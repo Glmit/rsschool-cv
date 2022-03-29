@@ -21,3 +21,21 @@
   I am open to everyone who wants to discuss any task of the education program.
 
   So, don't hesitate to contact me:) 
+## Work experience
+
+Design Engineer (*2019-2021*)
+
+## Code example
+
+```
+let berries = ["strawberry","raspberry","cranberry","rowanberry"];
+
+for (let key in berries) {
+    alert(arr[key]);
+}
+```
+## Language 
+
+* Russian - native
+* English - intermediate 
+* Belarussian - native
