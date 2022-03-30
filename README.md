@@ -1,1 +1,1 @@
-https://Glmit.github.io/rsschool-cv/cv
+https://Glmit.github.io/rsschool-cv/
